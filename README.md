@@ -1,8 +1,5 @@
-# React + Vite
+This is the Task for React Day_10
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React application demonstrates CRUD operations using Axios for API calls. It includes components for creating, editing, and displaying user data fetched from a mock API.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The application uses a mock API hosted at (https://6680d76956c2c76b495cdae5.mockapi.io/product) | The API is used for storing and retrieving user data.
